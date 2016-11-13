@@ -4,4 +4,4 @@ wu hang
 add a another line
 
 change one line
-create new branch is quick
+create new branch is quick AND simple.
